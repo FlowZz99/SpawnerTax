@@ -1,0 +1,4 @@
+name: SpawnerTax
+version: 1.0
+main: it.flowzz.spawnertax.SpawnerTax
+depend: [Vault]

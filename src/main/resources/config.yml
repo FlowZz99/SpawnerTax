@@ -1,0 +1,10 @@
+DefaultSpawnerMinePrice: 50000
+
+Prices:
+  villagergolem: 100000
+  enderman: 150000
+
+
+Lang:
+  nomoney: "&cSpawnerTax &8> &7You can't mine this spawner, you don't have enough money!"
+  spawnermined: "&cSpawnerTax &8> &7You broke a spawner, you've been charged for %money%$"
